@@ -1,0 +1,1 @@
+Creo una primera linea en el archivo_b.txt echo Creo una primera linea en el archivo_c.txt
